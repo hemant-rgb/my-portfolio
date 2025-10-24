@@ -1,7 +1,7 @@
 
 // import LogoSection from "./sections/LogoSection.jsx";
 import Navbar from "./components/Navbar.jsx";
-import Contact from "./sections/contact.jsx";
+import Contact from "./sections/Contact.jsx";
 import FeatureCards from "./sections/FeatureCards.jsx";
 import Hero from "./sections/hero.jsx";
 import Showcase from "./sections/Showcase.jsx";
